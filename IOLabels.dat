@@ -1,0 +1,104 @@
+ENVT0100,LM:2016/08/08 14:29:02:216,DS:0000001540,CS:07720,MA:E0-2A-82-55-D8-E0,EI:           
+sRCVersion="7.2.0"
+InputBitLabels {
+	nNumberOfLabels=11
+	Label1 {
+		nBit=1
+		sLabel="program_mala_doza"
+		sDescription=""
+	}
+	Label2 {
+		nBit=2
+		sLabel="program_srednja_doza"
+		sDescription=""
+	}
+	Label3 {
+		nBit=3
+		sLabel="program_velika_doza"
+		sDescription=""
+	}
+	Label4 {
+		nBit=4
+		sLabel="StopSw"
+		sDescription=""
+	}
+	Label5 {
+		nBit=8
+		sLabel="Servis"
+		sDescription=""
+	}
+	Label6 {
+		nBit=9
+		sLabel="StartSw"
+		sDescription=""
+	}
+	Label7 {
+		nBit=10
+		sLabel="ResetSW"
+		sDescription=""
+	}
+	Label8 {
+		nBit=12
+		sLabel="dovoljenje_odl_rok"
+		sDescription=""
+	}
+	Label9 {
+		nBit=13
+		sLabel="sonda_tlak"
+		sDescription=""
+	}
+	Label10 {
+		nBit=15
+		sLabel="pris_doz3"
+		sDescription=""
+	}
+	Label11 {
+		nBit=16
+		sLabel="miza_na_poziciji"
+		sDescription=""
+	}
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=3
+	Label1 {
+		nBit=10
+		sLabel="rokavica_prilepljena"
+		sDescription=""
+	}
+	Label2 {
+		nBit=11
+		sLabel="vibrator"
+		sDescription=""
+	}
+	Label3 {
+		nBit=12
+		sLabel="vacuum"
+		sDescription=""
+	}
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=1
+	Label1 {
+		nBit=0
+		sLabel="VisStart"
+		sDescription=""
+	}
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}

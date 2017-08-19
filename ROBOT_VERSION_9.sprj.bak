@@ -1,0 +1,434 @@
+ENVT0100,LM:2017/06/19 08:01:46:005,DS:0000007526,CS:16503,MA:D8-9D-67-CE-CA-B8,EI:           
+SystemProperties {
+	sRCVersion="7.2.0"
+	sRCRevision=""
+	sGUID="66943427-4641-4a8f-9c20-d2b5bbc7af19"
+	sPath="C:\\EpsonRC70\\Projects\\ROBOT_VERSION_9\\"
+	sCreated=""
+	sLastModified="7. 10. 2016 11:42:25"
+	bBuildComplete=False
+	bFirstBuildComplete=True
+	bRebuildRequired=True
+	bClearControllerProject=False
+	bClearGlobalPreserves=False
+}
+UserProperties {
+	sVersion=""
+	sDescription=""
+	sNotes=""
+	sParserEmulationVersion=""
+	bStrictCompile=False
+	bGlobalsDeclaredEachFile=False
+}
+IOLabelFile {
+	sName="IOLabels.dat"
+	nChecksum=0
+}
+UserErrorsFile {
+	sName="UserErrors.dat"
+	nChecksum=0
+}
+nRobotCount=1
+nProgramFileCount=9
+ProgramFile1 {
+	sName="START.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="8. 09. 2016 09:08:44"
+}
+ProgramFile2 {
+	sName="VIBRATE.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="4. 10. 2016 11:22:07"
+}
+ProgramFile3 {
+	sName="MAIN.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="7. 10. 2016 09:42:25"
+}
+ProgramFile4 {
+	sName="GLOVE_ON.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="15. 08. 2016 07:53:42"
+}
+ProgramFile5 {
+	sName="VRUN_CAM.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="4. 10. 2016 11:22:07"
+}
+ProgramFile6 {
+	sName="SELECT_PROGRAM.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="15. 08. 2016 07:50:02"
+}
+ProgramFile7 {
+	sName="PICK_N_PLACE_PARAM.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="19. 08. 2016 19:05:22"
+}
+ProgramFile8 {
+	sName="END.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="19. 08. 2016 18:37:58"
+}
+ProgramFile9 {
+	sName="HOME.prg"
+	bCompiled=True
+	bStoreInController=True
+	sTimeSavedInController="22. 08. 2016 08:32:54"
+}
+nIncludeFileCount=0
+nPointFileCount=2
+PointFile1 {
+	sName="robot1.pts"
+	nRobot=1
+	bDefault=True
+	sTimeSavedInController="7. 10. 2016 09:41:56"
+}
+PointFile2 {
+	sName="downCal.pts"
+	nRobot=1
+	sTimeSavedInController="15. 08. 2016 11:29:34"
+}
+nForceFileCount=0
+OperatorSettings {
+	OperatorWindow {
+		sTitle="Operator Window"
+		nWinState=0
+		sFontName="Courier New"
+		rFontSize=10
+		bFontBold=False
+		bRobotMgrButton=True
+		bPauseContButtons=True
+		bIOMonitorButton=True
+		bSystemHistoryButton=True
+		bDisplayVision=False
+		bSimulatorButton=True
+		Program0 {
+			sName="Program"
+			bEnabled=True
+		}
+		Program1 {
+			sName="Program 1"
+			bEnabled=True
+		}
+		Program2 {
+			sName="Program 2"
+			bEnabled=True
+		}
+		Program3 {
+			sName="Program 3"
+			bEnabled=True
+		}
+		Program4 {
+			sName="Program 4"
+			bEnabled=True
+		}
+		Program5 {
+			sName="Program 5"
+			bEnabled=True
+		}
+		Program6 {
+			sName="Program 6"
+			bEnabled=True
+		}
+		Program7 {
+			sName="Program 7"
+			bEnabled=True
+		}
+		Program8 {
+			sName="Program 8"
+			bEnabled=True
+		}
+		Program9 {
+			sName="Program 9"
+			bEnabled=True
+		}
+		Program10 {
+			sName="Program 10"
+			bEnabled=True
+		}
+		Program11 {
+			sName="Program 11"
+			bEnabled=True
+		}
+		Program12 {
+			sName="Program 12"
+			bEnabled=True
+		}
+		Program13 {
+			sName="Program 13"
+			bEnabled=True
+		}
+		Program14 {
+			sName="Program 14"
+			bEnabled=True
+		}
+		Program15 {
+			sName="Program 15"
+			bEnabled=True
+		}
+		Program16 {
+			sName="Program 16"
+			bEnabled=True
+		}
+		Program17 {
+			sName="Program 17"
+			bEnabled=True
+		}
+		Program18 {
+			sName="Program 18"
+			bEnabled=True
+		}
+		Program19 {
+			sName="Program 19"
+			bEnabled=True
+		}
+		Program20 {
+			sName="Program 20"
+			bEnabled=True
+		}
+		Program21 {
+			sName="Program 21"
+			bEnabled=True
+		}
+		Program22 {
+			sName="Program 22"
+			bEnabled=True
+		}
+		Program23 {
+			sName="Program 23"
+			bEnabled=True
+		}
+		Program24 {
+			sName="Program 24"
+			bEnabled=True
+		}
+		Program25 {
+			sName="Program 25"
+			bEnabled=True
+		}
+		Program26 {
+			sName="Program 26"
+			bEnabled=True
+		}
+		Program27 {
+			sName="Program 27"
+			bEnabled=True
+		}
+		Program28 {
+			sName="Program 28"
+			bEnabled=True
+		}
+		Program29 {
+			sName="Program 29"
+			bEnabled=True
+		}
+		Program30 {
+			sName="Program 30"
+			bEnabled=True
+		}
+		Program31 {
+			sName="Program 31"
+			bEnabled=True
+		}
+		Program32 {
+			sName="Program 32"
+			bEnabled=True
+		}
+		Program33 {
+			sName="Program 33"
+			bEnabled=True
+		}
+		Program34 {
+			sName="Program 34"
+			bEnabled=True
+		}
+		Program35 {
+			sName="Program 35"
+			bEnabled=True
+		}
+		Program36 {
+			sName="Program 36"
+			bEnabled=True
+		}
+		Program37 {
+			sName="Program 37"
+			bEnabled=True
+		}
+		Program38 {
+			sName="Program 38"
+			bEnabled=True
+		}
+		Program39 {
+			sName="Program 39"
+			bEnabled=True
+		}
+		Program40 {
+			sName="Program 40"
+			bEnabled=True
+		}
+		Program41 {
+			sName="Program 41"
+			bEnabled=True
+		}
+		Program42 {
+			sName="Program 42"
+			bEnabled=True
+		}
+		Program43 {
+			sName="Program 43"
+			bEnabled=True
+		}
+		Program44 {
+			sName="Program 44"
+			bEnabled=True
+		}
+		Program45 {
+			sName="Program 45"
+			bEnabled=True
+		}
+		Program46 {
+			sName="Program 46"
+			bEnabled=True
+		}
+		Program47 {
+			sName="Program 47"
+			bEnabled=True
+		}
+		Program48 {
+			sName="Program 48"
+			bEnabled=True
+		}
+		Program49 {
+			sName="Program 49"
+			bEnabled=True
+		}
+		Program50 {
+			sName="Program 50"
+			bEnabled=True
+		}
+		Program51 {
+			sName="Program 51"
+			bEnabled=True
+		}
+		Program52 {
+			sName="Program 52"
+			bEnabled=True
+		}
+		Program53 {
+			sName="Program 53"
+			bEnabled=True
+		}
+		Program54 {
+			sName="Program 54"
+			bEnabled=True
+		}
+		Program55 {
+			sName="Program 55"
+			bEnabled=True
+		}
+		Program56 {
+			sName="Program 56"
+			bEnabled=True
+		}
+		Program57 {
+			sName="Program 57"
+			bEnabled=True
+		}
+		Program58 {
+			sName="Program 58"
+			bEnabled=True
+		}
+		Program59 {
+			sName="Program 59"
+			bEnabled=True
+		}
+		Program60 {
+			sName="Program 60"
+			bEnabled=True
+		}
+		Program61 {
+			sName="Program 61"
+			bEnabled=True
+		}
+		Program62 {
+			sName="Program 62"
+			bEnabled=True
+		}
+		Program63 {
+			sName="Program 63"
+			bEnabled=True
+		}
+	}
+	RobotManager {
+		bAllowReset=True
+		bAllowTeach=True
+		bAllowMotionCmds=True
+		bAllowDeletePoints=True
+		bAllowEditPoints=True
+		bAllowSFree=True
+		bAllowHome=True
+		bPromptNewPointInfo=True
+		bTeachDefinedOnly=True
+		bControlPanelTab=True
+		bJogTab=True
+		bPointsTab=True
+		bArchTab=False
+		bLocalsTab=False
+		bToolsTab=False
+		bArmsTab=False
+		bPalletsTab=False
+		bECPTab=False
+		bBoxesTab=False
+		bPlanesTab=False
+		bForceTab=False
+		bForceSensorTab=False
+		bMassTab=False
+		bWeightTab=False
+		bInertiaTab=False
+		bXYZLimitsTab=False
+		bRangeTab=False
+		bHomeConfigTab=False
+		bMCalOrderTab=False
+	}
+	IOMonitor {
+		bStandardViewTab=True
+		bCustomView1Tab=True
+		bCustomView2Tab=False
+		bCustomView3Tab=False
+		bAllowChangeOutputs=False
+	}
+}
+IOCustomView1 {
+	sName=""
+	bVisible=True
+	nNumberOfRows=0
+}
+IOCustomView2 {
+	sName=""
+	bVisible=False
+	nNumberOfRows=0
+}
+IOCustomView3 {
+	sName=""
+	bVisible=False
+	nNumberOfRows=0
+}
+NetworkCameras {
+	Camera1 {
+		nProjectNumber=1
+	}
+}
+nVisFileCount=1
+VisFile1 {
+	sName="ROBOT_VERSION_9.vis"
+}
+nGuiBuilderFileCount=0

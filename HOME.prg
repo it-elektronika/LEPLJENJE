@@ -1,0 +1,4 @@
+Function GOHOME
+	Home
+Fend
+

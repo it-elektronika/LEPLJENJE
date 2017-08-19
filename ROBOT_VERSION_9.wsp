@@ -1,0 +1,251 @@
+ENVT0100,LM:2017/08/19 05:17:31:194,DS:0000003237,CS:04904,MA:D8-9D-67-CE-CA-B8,EI:           
+sActiveChild="MAIN.prg"
+bMdiMaximized=True
+nProgramFileCount=9
+ProgramFile1 {
+	sName="START.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=722
+		nHeight=474
+	}
+}
+ProgramFile2 {
+	sName="VIBRATE.prg"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+ProgramFile3 {
+	sName="MAIN.prg"
+	bOpened=True
+	nWinState=2
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=721
+		nHeight=470
+	}
+}
+ProgramFile4 {
+	sName="GLOVE_ON.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=722
+		nHeight=474
+	}
+}
+ProgramFile5 {
+	sName="VRUN_CAM.prg"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+ProgramFile6 {
+	sName="SELECT_PROGRAM.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=722
+		nHeight=474
+	}
+}
+ProgramFile7 {
+	sName="PICK_N_PLACE_PARAM.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=722
+		nHeight=474
+	}
+}
+ProgramFile8 {
+	sName="END.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=722
+		nHeight=474
+	}
+}
+ProgramFile9 {
+	sName="HOME.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=722
+		nHeight=474
+	}
+}
+nIncludeFileCount=0
+nPointFileCount=2
+PointFile1 {
+	sName="robot1.pts"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+PointFile2 {
+	sName="downCal.pts"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+nForceFileCount=0
+sActiveWindow="main.prg"
+CmdWindow {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+RunWindow {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+IOLabelEditor {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+IOMonitor {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+Simulator {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+TaskMgr {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+Macros {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+RobotMgr {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+UserErrorEditor {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+VisionGuide {
+	bOpened=False
+	Window {
+		nLeft=-121
+		nTop=89
+		nWidth=947
+		nHeight=632
+	}
+	nWinState=0
+}
+GUIBuilder {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+ProjectExplorer {
+	bProgramsOpened=True
+	bIncludesOpened=False
+	bLabelsOpened=False
+	bMacrosOpened=False
+	bFunctionsOpened=False
+	bVisionOpened=False
+	bVisionSequencesOpened=False
+	bVisionCalibsOpened=False
+	bGUIBOpened=False
+	bGUIBFormsOpened=False
+	bRobotPointsOpened=False
+	bCommonPointsOpened=False
+	bForcesOpened=False
+	bCommonForcesOpened=False
+	bRobotsOpened1=False
+}
